@@ -77,6 +77,12 @@ body {
     margin-left: 0px;
 }
 
+.info-title {
+    font-size: 32px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
 .cta-container {
     background-color: #3882f6;
 }
