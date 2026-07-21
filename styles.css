@@ -1,11 +1,13 @@
 body {
     font-family: "Roboto", sans-serif;
+    margin: 0px;
 }
 
 .main {
     background: #1f2937;
     display: flex;
     justify-content: center;
+    padding-bottom: 128px;
 }
 
 .header {
@@ -16,7 +18,7 @@ body {
 .right-links {
     display: flex;
     list-style-type: none;
-    gap: 16px;
+    gap: 24px;
 }
 
 .container-one {
@@ -31,11 +33,17 @@ body {
 
 .hero-text {
     width: 460px;
+    margin-right: 32px;
 }
 
-.img {
-    height: 200px;
+.image {
+    height: 250px;
     width: 500px;
+    background-color: #7f7f7f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
 }
 
 .header-logo {
@@ -59,6 +67,14 @@ body {
 .signup {
     background: #3882f6;
     color: #f9faf8;
+    padding: 8px 32px;
+    font-weight: 900;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #3882f6;
+    font-size: 16px;
+    margin: 12px;
+    margin-left: 0px;
 }
 
 .cta-container {
