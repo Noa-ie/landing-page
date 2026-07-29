@@ -6,6 +6,11 @@ body {
     background-color: #1f2937;
 }
 
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
 .logo {
     font-size: 24px;
     color: #f9faf8;
@@ -15,4 +20,5 @@ body {
 .right-links {
     color: #e5e7eb;
     list-style-type: none;
+    display: flex;
 }
