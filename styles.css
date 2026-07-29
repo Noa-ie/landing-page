@@ -11,3 +11,8 @@ body {
     color: #f9faf8;
     font-weight: 900;
 }
+
+.right-links {
+    color: #e5e7eb;
+    list-style-type: none;
+}
