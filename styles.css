@@ -33,6 +33,7 @@ body {
     list-style-type: none;
     display: flex;
     gap: 24px;
+    font-size: 18px;
 }
 
 .hero-container {
@@ -58,6 +59,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 32px;
 }
 
 .hero-text-and-button {
