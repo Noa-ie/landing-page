@@ -90,3 +90,21 @@ body {
 .info-section-container {
     text-align: center;
 }
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.info {
+    max-width: 155px;
+}
+
+.info-image {
+    height: 155px;
+    width: 155px;
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 15px;
+}
