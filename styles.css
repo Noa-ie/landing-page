@@ -63,3 +63,14 @@ body {
 .hero-text-and-button {
     width: 460px;
 }
+
+.hero-button {
+    background-color: #3882F6;
+    border: 0;
+    border-color: #3882F6;
+    padding: 8px 32px;
+    font-size: 16px;
+    color: #f9faf8;
+    font-weight: 900;
+    border-radius: 7.5px;
+}
