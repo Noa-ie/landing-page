@@ -5,8 +5,16 @@ body {
 }
 
 .hero-section {
+    display: flex;
+    justify-content: center;
     background-color: #1f2937;
 }
+
+.hero-section-container {
+    background-color: #1f2937;
+}
+
+/* consider using margin auto trick to space out logo from right-links */
 
 .header {
     display: flex;
