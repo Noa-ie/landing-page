@@ -14,8 +14,6 @@ body {
     background-color: #1f2937;
 }
 
-/* consider using margin auto trick to space out logo from right-links */
-
 .header {
     display: flex;
     justify-content: space-between;
@@ -54,6 +52,10 @@ body {
     height: 240px;
     width: 520px;
     color: #f9faf8;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .hero-text-and-button {
