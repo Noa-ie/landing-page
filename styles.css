@@ -116,3 +116,20 @@ body {
     border-radius: 15px;
     margin-bottom: 8px;
 }
+
+/* Quote Section */
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.author {
+    font-weight: 900;
+}
