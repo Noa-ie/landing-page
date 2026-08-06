@@ -86,3 +86,7 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.info-section-container {
+    text-align: center;
+}
