@@ -91,6 +91,13 @@ body {
     text-align: center;
 }
 
+.info-title {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin: 48px;
+}
+
 .info-container {
     display: flex;
     justify-content: center;
